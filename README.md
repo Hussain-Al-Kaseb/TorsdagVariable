@@ -1,2 +1,2 @@
 # TorsdagVariable
-Torsdags opgave 1
+Hussain´s Torsdags opgave 1
